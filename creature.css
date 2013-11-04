@@ -1,0 +1,15 @@
+
+  div.div_canvas {
+    position:absolute;
+    left:40px;
+    top:40px;
+
+  }
+
+  div#div_bg {
+    z-index: 1; 
+  }
+
+  div#div_pony{
+    z-index: 2; 
+  }
